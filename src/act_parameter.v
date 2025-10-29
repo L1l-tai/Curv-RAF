@@ -1,4 +1,4 @@
-parameter PRECISION = 16;
+parameter PRECISION = 8;
 //parameter and data width is same 
 parameter PARAM_WIDTH = PRECISION;
 parameter ACT_IN_WIDTH = PRECISION;
