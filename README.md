@@ -1,2 +1,2 @@
-# ReCPWL
-ReCPWL: Reconfigurable Curvature-driven Piecewise Linear Approximation of Activation Function
+# Curv-RAF
+Curv-RAF: A Curvature-Optimized Reconfigurable Hardware Architecture for Activation Functions
